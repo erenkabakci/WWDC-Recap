@@ -1,6 +1,7 @@
 WWDC 2017
 
 # Privacy and Your Apps
+Session video and resources: https://developer.apple.com/videos/play/wwdc2017/702/
 
 # Best practises
   - UUID

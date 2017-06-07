@@ -1,6 +1,8 @@
 WWDC 2017
 
 # Natural Language Processing (NLP) * Wednesday
+Session video and resources: https://developer.apple.com/videos/play/wwdc2017/208/
+
   - Typed, recognized handwriting, transcribed speech
 ## NLP APIs
   - Natural language text -> Language identification

@@ -1,6 +1,7 @@
 WWDC 2017
 
 # Updating Your Apps to iOS11 * Tuesday 16:10
+Session video and resources: https://developer.apple.com/videos/play/wwdc2017/204/
 
 ## UIBarItem
   - UI changes when long pressed to tabbar item

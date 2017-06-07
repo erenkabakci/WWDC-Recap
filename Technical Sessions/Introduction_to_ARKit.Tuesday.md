@@ -1,6 +1,7 @@
 WWDC 2017
 
-# Introduction to ARKit * Tuesday
+# Introduction to ARKit *
+Sessin video and resources: https://developer.apple.com/videos/play/wwdc2017/602/
 
 ## ARKit
   - iOS (devices with A9 chip and up)

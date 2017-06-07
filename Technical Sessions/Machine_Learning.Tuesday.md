@@ -1,6 +1,8 @@
 WWDC 2017
 
 # Machine Learning (CoreML) * Tuesday
+Session video and resources: https://developer.apple.com/videos/play/wwdc2017/703/
+
 ## Why ?
   - Real time image recognition
   - Text prediction

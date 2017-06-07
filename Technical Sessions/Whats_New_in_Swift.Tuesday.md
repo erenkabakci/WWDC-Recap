@@ -1,6 +1,7 @@
 WWDC 2017
 
 # What's New in Swift
+Session video and resources: https://developer.apple.com/videos/play/wwdc2017/402/
 
 ### General Announcements
   - Toolchain support for more refactors in XCode

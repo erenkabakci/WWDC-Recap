@@ -1,7 +1,7 @@
 WWDC 2017
 
 # Platforms State of the Union * Monday 14:30 - 16:00
-Session video and materials: https://developer.apple.com/videos/play/wwdc2017/102/
+Session video and resources: https://developer.apple.com/videos/play/wwdc2017/102/
 
 ## Swift Playgrounds 1.5
 ## Swift Playgrounds 2

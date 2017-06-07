@@ -1,6 +1,7 @@
 WWDC 2017
 
 # Your apps and evolving network security * Tuesday 10:20
+Session video and resources: https://developer.apple.com/videos/play/wwdc2017/701/
 _TLS -> Transport Layer Security_
 
 # Best Practises
