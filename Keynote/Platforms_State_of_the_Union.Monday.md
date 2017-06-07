@@ -50,11 +50,12 @@ Session video and resources: https://developer.apple.com/videos/play/wwdc2017/10
 
 # New APIs
 
-## Drag & Drop (iPad only for now)
+## Drag & Drop
   - New delegate support
     - One for drag
     - One for drop
   - Interact with other apps using same API
+  - Available on iPhone BUT, only moving files within the same file is supported
 
 ## Auto resizing table view cells
 
