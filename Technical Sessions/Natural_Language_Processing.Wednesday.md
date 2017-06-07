@@ -1,6 +1,16 @@
 WWDC 2017
 
-# Natural Language Processing (NLP) * Wednesday
+Table of Contents
+=================
+
+  * [Natural Language Processing (NLP) \- Wednesday](#natural-language-processing-nlp---wednesday)
+    * [NLP APIs](#nlp-apis)
+    * [NSLinguisticTagger](#nslinguistictagger)
+      * [Tagging Units](#tagging-units)
+      * [Use Case](#use-case)
+    * [Why should you use the NLP API's](#why-should-you-use-the-nlp-apis)
+
+# Natural Language Processing (NLP) - Wednesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/208/
 
   - Typed, recognized handwriting, transcribed speech

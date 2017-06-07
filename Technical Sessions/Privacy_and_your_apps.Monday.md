@@ -1,6 +1,24 @@
 WWDC 2017
 
-# Privacy and Your Apps
+Table of Contents
+=================
+
+  * [Privacy and Your Apps \- Monday](#privacy-and-your-apps---monday)
+  * [Best practises](#best-practises)
+    * [CoreLocation \- When In Use Prompts](#corelocation---when-in-use-prompts)
+    * [Photos](#photos)
+    * [CoreNFC](#corenfc)
+    * [Microphone \- WatchOS](#microphone---watchos)
+    * [MusicKit](#musickit)
+    * [Safari View Controller \- iOS11](#safari-view-controller---ios11)
+  * [Features](#features)
+    * [On Device processing](#on-device-processing)
+    * [DeviceCheck](#devicecheck)
+      * [Best practises](#best-practises-1)
+  * [Intelligent Tracking Prevention on Safari](#intelligent-tracking-prevention-on-safari)
+  * [Differential Privacy](#differential-privacy)
+
+# Privacy and Your Apps - Monday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/702/
 
 # Best practises

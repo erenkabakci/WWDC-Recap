@@ -1,6 +1,17 @@
 WWDC 2017
 
-# Machine Learning (CoreML) * Tuesday
+Table of Contents
+=================
+
+  * [Machine Learning (CoreML) \- Tuesday](#machine-learning-coreml---tuesday)
+    * [Why ?](#why-)
+    * [Training](#training)
+    * [ML Frameworks](#ml-frameworks)
+    * [Run on device](#run-on-device)
+    * [Model](#model)
+    * [Development](#development)
+
+# Machine Learning (CoreML) - Tuesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/703/
 
 ## Why ?

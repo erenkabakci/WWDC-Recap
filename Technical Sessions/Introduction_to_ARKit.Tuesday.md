@@ -1,6 +1,17 @@
 WWDC 2017
 
-# Introduction to ARKit *
+Table of Contents
+=================
+
+  * [Introduction to ARKit \- Tuesday](#introduction-to-arkit---tuesday)
+    * [ARKit](#arkit)
+    * [Getting Started](#getting-started)
+      * [ARSessionConfiguration](#arsessionconfiguration)
+      * [ARSession](#arsession)
+    * [World Tracking](#world-tracking)
+      * [Content Technology](#content-technology)
+
+# Introduction to ARKit - Tuesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/602/
 
 ## ARKit

@@ -1,6 +1,24 @@
 WWDC 2017
 
-# What's New in Swift
+Table of Contents
+=================
+
+  * [What's New in Swift \- Tuesday](#whats-new-in-swift---tuesday)
+      * [General Announcements](#general-announcements)
+    * [Access Control](#access-control)
+    * [Composing Classes &amp; Protocols](#composing-classes--protocols)
+    * [Source Compatibility](#source-compatibility)
+    * [New Build System](#new-build-system)
+    * [Predictable Performance](#predictable-performance)
+    * [Smaller Binaries](#smaller-binaries)
+      * [Symbol Size](#symbol-size)
+    * [Strings](#strings)
+    * [New Generics Features](#new-generics-features)
+    * [Exclusive Access to memory](#exclusive-access-to-memory)
+      * [Taking Advantage of Exclusive Access](#taking-advantage-of-exclusive-access)
+    * [Enforcement in the Developer Preview](#enforcement-in-the-developer-preview)
+
+# What's New in Swift - Tuesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/402/
 
 ### General Announcements

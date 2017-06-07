@@ -1,6 +1,20 @@
 WWDC 2017
 
-# Debugging with XCode 9 * Wednesday
+Table of Contents
+=================
+
+  * [Debugging with XCode 9 \- Wednesday](#debugging-with-xcode-9---wednesday)
+    * [Development: Unplugged](#development-unplugged)
+      * [Who is it for ?](#who-is-it-for-)
+      * [How to setup ?](#how-to-setup-)
+    * [Instruments and Profiling](#instruments-and-profiling)
+    * [Breakpoints](#breakpoints)
+    * [View Controller Debugging](#view-controller-debugging)
+    * [SpriteKit Debugging](#spritekit-debugging)
+    * [SceneKit Debugging](#scenekit-debugging)
+    * [DEBUGCEPTION](#debugception)
+
+# Debugging with XCode 9 - Wednesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/404/
 
 ## Development: Unplugged

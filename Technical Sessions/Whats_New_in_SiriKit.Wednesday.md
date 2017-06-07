@@ -1,6 +1,26 @@
 WWDC 2017
 
-# What's New in SiriKit * Wednesday
+Table of Contents
+=================
+
+  * [What's New in SiriKit \- Wednesday](#whats-new-in-sirikit---wednesday)
+    * [SiriKit](#sirikit)
+    * [Easy development/debugging](#easy-developmentdebugging)
+    * [Domains and intents](#domains-and-intents)
+      * [Payments (was there)](#payments-was-there)
+      * [Accounts (new \- type of accounts or companies \-checking))](#accounts-new---type-of-accounts-or-companies--checking)
+    * [Lists and Notes:](#lists-and-notes)
+      * [Lists:](#lists)
+      * [Notes:](#notes)
+    * [Visual codes](#visual-codes)
+    * [Steps](#steps)
+    * [Customizable UI](#customizable-ui)
+      * [Configure View](#configure-view)
+    * [Additional Enhancements](#additional-enhancements)
+      * [Background workout app intent handling](#background-workout-app-intent-handling)
+      * [Alternative App Names](#alternative-app-names)
+
+# What's New in SiriKit - Wednesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/214/
 
 ## SiriKit

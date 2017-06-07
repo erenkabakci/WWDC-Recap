@@ -1,6 +1,29 @@
 WWDC 2017
 
-# Essential Design Principles * Wednesday
+Table of Contents
+=================
+
+  * [Essential Design Principles \- Wednesday](#essential-design-principles---wednesday)
+    * [Apps Should Provide](#apps-should-provide)
+  * [Design Principles](#design-principles)
+    * [Wayfinding](#wayfinding)
+      * [Good Wayfinding Answers](#good-wayfinding-answers)
+    * [Feedback](#feedback)
+      * [Good Feedback Answers](#good-feedback-answers)
+    * [Visibility](#visibility)
+    * [Consistency](#consistency)
+      * [Internal Consistency](#internal-consistency)
+    * [Mental Model](#mental-model)
+    * [Proximity](#proximity)
+    * [Grouping](#grouping)
+    * [Mapping](#mapping)
+    * [Affordance](#affordance)
+    * [Progressive Disclosure](#progressive-disclosure)
+    * [80/20 Rule](#8020-rule)
+    * [Symmetry](#symmetry)
+  * [Challenges Applying Design Principles](#challenges-applying-design-principles)
+
+# Essential Design Principles - Wednesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/802/
 
 ## Apps Should Provide
@@ -42,7 +65,7 @@ Session video and resources: https://developer.apple.com/videos/play/wwdc2017/80
 ### Internal Consistency
   - Provides cohesion
   - Fonts, colors, flows, icons should match to each other
-  
+
 ## Mental Model
 ## Proximity
 ## Grouping

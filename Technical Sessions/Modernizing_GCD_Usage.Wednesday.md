@@ -1,6 +1,22 @@
 WWDC 2017
 
-# Modernizing GCD Usage - How to stay on core * Wednesday
+Table of Contents
+=================
+
+  * [Modernizing GCD Usage, How to stay on core \- Wednesday](#modernizing-gcd-usage-how-to-stay-on-core---wednesday)
+    * [Parallelism: Simultaneously execution of closely related computations](#parallelism-simultaneously-execution-of-closely-related-computations)
+      * [Concurrency: Composition of independently executed tasks](#concurrency-composition-of-independently-executed-tasks)
+      * [Lock ownership](#lock-ownership)
+    * [Using GCD for Concurrency](#using-gcd-for-concurrency)
+      * [Serial Dispatch Queue](#serial-dispatch-queue)
+      * [Target Queue Hierarchy](#target-queue-hierarchy)
+      * [Qualitiy of Service (QoS) and Target Queue Hierarchy](#qualitiy-of-service-qos-and-target-queue-hierarchy)
+      * [Event Handling on Many independent Queues](#event-handling-on-many-independent-queues)
+    * [Introducing Unified Queue Identity](#introducing-unified-queue-identity)
+    * [Modernizing Existing Code](#modernizing-existing-code)
+    * [Summary](#summary)
+
+# Modernizing GCD Usage, How to stay on core - Wednesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/706/
 
 ## Parallelism: Simultaneously execution of closely related computations

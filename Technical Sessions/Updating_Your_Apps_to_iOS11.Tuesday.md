@@ -1,6 +1,19 @@
 WWDC 2017
 
-# Updating Your Apps to iOS11 * Tuesday 16:10
+Table of Contents
+=================
+
+  * [Updating Your Apps to iOS11 \- Tuesday 16:10](#updating-your-apps-to-ios11---tuesday-1610)
+    * [UIBarItem](#uibaritem)
+    * [Controlling When Large Titles Display](#controlling-when-large-titles-display)
+    * [Integrated UISearchControlle with Navigation](#integrated-uisearchcontrolle-with-navigation)
+    * [UIToolbar and UINavigationBar supports AutoLayout](#uitoolbar-and-uinavigationbar-supports-autolayout)
+    * [Layout Margins](#layout-margins)
+    * [UIScrollView](#uiscrollview)
+    * [UITableView](#uitableview)
+    * [Swipe Actions](#swipe-actions)
+
+# Updating Your Apps to iOS11 - Tuesday 16:10
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/204/
 
 ## UIBarItem

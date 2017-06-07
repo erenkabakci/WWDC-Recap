@@ -1,17 +1,29 @@
 WWDC 2017
 
-# Monday
-## Keynote
+Table of Contents
+=================
 
-### tvOS
+  * [Table of Contents](#table-of-contents)
+  * [Keynote \- Monday](#keynote---monday)
+    * [tvOS](#tvos)
+    * [apple watch](#apple-watch)
+    * [mac](#mac)
+    * [iMac](#imac)
+    * [iOS 11](#ios-11)
+    * [iPad Pro = Macbook](#ipad-pro--macbook)
+    * [HomePod](#homepod)
+
+# Keynote - Monday
+
+## tvOS
   - amazon, prime video
-### apple watch
+## apple watch
   - watchOS 4
   - Siri watch face, kaleidoscope
   - gym equipments sync
   - music app pairing
   - core bluetooth API access
-### mac
+## mac
   - macOS High Sierra LOL
     - Safari autoplay blocking
     - Intelligent tracking prevention
@@ -22,13 +34,13 @@ WWDC 2017
       - Machine learning integrated
       - External access, developer kit
       - Metal for VR, steam VR SDK, Unreal Engine
-### iMac
+## iMac
   - Hardware enhancements
   - iMac Pro
     - 18 Core Xeon Processor
     - Up to 128GB of ECC RAM
     - Starting from $4999
-### iOS 11
+## iOS 11
   - iMessage sync across devices
   - ApplePay; send money to each other using iMessage
   - Siri, live translation (beta)
@@ -54,7 +66,7 @@ WWDC 2017
   - ARKit - Augmented Reality
     - Dynamic object manipulation via camera app
     - Surface detection, custom scenes
-### iPad Pro = Macbook
+## iPad Pro = Macbook
   - 10.5 Inch
   - Full size on screen keyboard
   - 120 Hz Refresh rate
@@ -67,7 +79,7 @@ WWDC 2017
     - Create markups and convert them into PDF
     - Instant notes with a tap on lock screen using pen
     - Built in document scanner
-### HomePod
+## HomePod
   - Spatial awareness
   - Siri (musicologist)
   - Home assistant

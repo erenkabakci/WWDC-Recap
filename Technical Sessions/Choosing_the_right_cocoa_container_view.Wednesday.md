@@ -1,6 +1,12 @@
 WWDC 2017
 
-# Choosing the Right Cocoa Container View * Wednesday
+Table of Contents
+=================
+
+  * [Choosing the Right Cocoa Container View \- Wednesday](#choosing-the-right-cocoa-container-view---wednesday)
+    * [NSStackView](#nsstackview)
+
+# Choosing the Right Cocoa Container View - Wednesday
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/218/
 
 ## `NSStackView`

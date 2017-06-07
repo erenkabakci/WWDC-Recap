@@ -1,6 +1,17 @@
 WWDC 2017
 
-# What's New in Foundation * Wednesday
+Table of Contents
+=================
+
+  * [What's New in Foundation \- Wednesday](#whats-new-in-foundation---wednesday)
+  * [New Api highlights](#new-api-highlights)
+    * [Foundation](#foundation)
+    * [Key paths and KVO](#key-paths-and-kvo)
+    * [Encoding &amp; Decoding](#encoding--decoding)
+      * [Definitely check here for more info about this <a href="https://developer\.apple\.com/documentation/foundation/archives\_and\_serialization/encoding\_and\_decoding\_custom\_types">https://developer\.apple\.com/documentation/foundation/archives\_and\_serialization/encoding\_and\_decoding\_custom\_types</a>](#definitely-check-here-for-more-info-about-this-httpsdeveloperapplecomdocumentationfoundationarchives_and_serializationencoding_and_decoding_custom_types)
+      * [The Philosophy Behind](#the-philosophy-behind)
+
+# What's New in Foundation - Wednesday
 Provided by @mihriminaz
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/212/
 

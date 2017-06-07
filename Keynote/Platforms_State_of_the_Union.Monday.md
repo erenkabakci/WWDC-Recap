@@ -1,6 +1,40 @@
 WWDC 2017
 
-# Platforms State of the Union * Monday 14:30 - 16:00
+Table of Contents
+=================
+
+  * [Platforms State of the Union \- Monday 14:30 \-&gt; 16:00](#platforms-state-of-the-union---monday-1430---1600)
+    * [Swift Playgrounds 1\.5](#swift-playgrounds-15)
+    * [Swift Playgrounds 2](#swift-playgrounds-2)
+  * [Tools Updates](#tools-updates)
+    * [XCode 9](#xcode-9)
+    * [String](#string)
+    * [Codable](#codable)
+    * [Swift 3\.2 &amp; 4\.0](#swift-32--40)
+    * [Obj\-C &amp; Swift interoperability](#obj-c--swift-interoperability)
+    * [New indexer](#new-indexer)
+    * [New build system](#new-build-system)
+    * [Github integration to XCode 9](#github-integration-to-xcode-9)
+    * [Sanitizers](#sanitizers)
+    * [CI &amp; Testing](#ci--testing)
+    * [Wireless Development](#wireless-development)
+  * [New APIs](#new-apis)
+    * [Drag &amp; Drop](#drag--drop)
+    * [Auto resizing table view cells](#auto-resizing-table-view-cells)
+    * [Files](#files)
+    * [SiriKit](#sirikit)
+    * [MusicKit](#musickit)
+      * [Built in QR\-Code support from the camera](#built-in-qr-code-support-from-the-camera)
+    * [Depth API for Camera and Images](#depth-api-for-camera-and-images)
+    * [Vision](#vision)
+      * [Face &amp; Landmark Detection](#face--landmark-detection)
+      * [Object Tracking](#object-tracking)
+      * [Vision &lt;\-&gt; Core ML](#vision---core-ml)
+    * [CoreML](#coreml)
+    * [Metal 2](#metal-2)
+    * [ARKit](#arkit)
+
+# Platforms State of the Union - Monday 14:30 -> 16:00
 Session video and resources: https://developer.apple.com/videos/play/wwdc2017/102/
 
 ## Swift Playgrounds 1.5
