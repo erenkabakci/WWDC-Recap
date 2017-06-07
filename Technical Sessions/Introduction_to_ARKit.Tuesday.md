@@ -24,3 +24,12 @@ WWDC 2017
   - Enabling/disabling
 ### `ARSession`
   - Manage AR processing using `pause()` and `run()`
+  - `ARAnchor`
+    - Real world positioning
+    - Add/remove via `ARSession`
+
+## World Tracking
+  - Add as a configuration to the session `ARWorldTrackingSessionConfiguration`
+
+### Content Technology
+  - Comes as an option while creating a new ARKit project. This defines the rendering method.
