@@ -66,6 +66,8 @@ Table of Contents
   - ARKit - Augmented Reality
     - Dynamic object manipulation via camera app
     - Surface detection, custom scenes
+  - Built in document scanner in the notes app
+  - Built in QR code scanner in the camera app
 ## iPad Pro = Macbook
   - 10.5 Inch
   - Full size on screen keyboard
@@ -78,7 +80,6 @@ Table of Contents
     - Files app for directory access
     - Create markups and convert them into PDF
     - Instant notes with a tap on lock screen using pen
-    - Built in document scanner
 ## HomePod
   - Spatial awareness
   - Siri (musicologist)
