@@ -30,7 +30,6 @@ Enjoy !
 ### [Efficient Interactions with Frameworks](./Technical%20Sessions/Efficient_Interactions_with_Frameworks.md)
 ### [Engineering for Testability](./Technical%20Sessions/Engineering_for_testability.md)
 ### [Finding Bugs Using Xcode Runtime Tools](./Technical%20Sessions/Finding_bugs_using_XCode_runtime_tools.md)
-### [GitHub and the New Source Control Workflows in Xcode 9](./Technical%20Sessions/GitHub_in_Xcode_9.md)
 ### [Introducing ARKit: Augmented Reality for iOS](./Technical%20Sessions/Introduction_to_ARKit.md)
 ### [Introducing Core ML](./Technical%20Sessions/Machine_Learning.md)
 ### [Modernizing Grand Central Dispatch Usage](./Technical%20Sessions/Modernizing_GCD_Usage.md)
