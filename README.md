@@ -19,7 +19,7 @@ Enjoy !
 ### [Essential Design Principles](./Design%20Sessions/Essential_Design_Principles.md)
 
 ## Technical
-### [Advances in Networking, Part 1](./Technical%20Sessions/Advances_in_Networking_ Part_1.md)
+### [Advances in Networking, Part 1](./Technical%20Sessions/Advances_in_Networking_Part_1.md)
 ### [App Startup Time: Past, Present, and Future](./Technical%20Sessions/App_Startup_TIme_Past_Present_Future.md)
 ### [Auto Layout Techniques in Interface Builder](./Technical%20Sessions/Autolayout_Techniques_in_Interface_Builder.md)
 ### [Building Visually Rich User Experiences](./Technical%20Sessions/Building_Visually_Rich_Interfaces.md)
