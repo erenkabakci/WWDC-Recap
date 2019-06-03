@@ -10,9 +10,9 @@ Any PR's are welcomed for the sessions I couldn't attend. :pray:
 Enjoy !
 
 
-# WWDC19
+# [WWDC19](./WWDC19)
 
-# WWDC17
+# [WWDC17](./WWDC17)
 ## Keynote
 ### [WWDC 2017 Keynote](./WWDC17/Keynote/Keynote.md)
 ### [Platforms State of the Union](./WWDC17/WWDC17Keynote/Platforms_State_of_the_Union.md)
