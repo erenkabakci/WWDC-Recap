@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:WWDC17-Recap.xcodeproj">
+      location = "self:/Users/ekabakci/Desktop/Projects/WWDC-Recap/WWDC-Recap.xcodeproj">
    </FileRef>
 </Workspace>

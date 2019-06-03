@@ -7,20 +7,18 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D13758651EEB693E003ED792 /* Design Sessions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Design Sessions"; sourceTree = "<group>"; };
-		D13758661EEB693E003ED792 /* Keynote */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Keynote; sourceTree = "<group>"; };
+		11CE562622A5B98F00BAA947 /* WWDC19 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = WWDC19; sourceTree = "<group>"; };
+		11CE562722A5B98F00BAA947 /* WWDC17 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = WWDC17; sourceTree = "<group>"; };
 		D13758671EEB693E003ED792 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D13758681EEB693E003ED792 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		D13758691EEB693E003ED792 /* Technical Sessions */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Technical Sessions"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		D137585E1EEB688C003ED792 = {
 			isa = PBXGroup;
 			children = (
-				D13758661EEB693E003ED792 /* Keynote */,
-				D13758651EEB693E003ED792 /* Design Sessions */,
-				D13758691EEB693E003ED792 /* Technical Sessions */,
+				11CE562722A5B98F00BAA947 /* WWDC17 */,
+				11CE562622A5B98F00BAA947 /* WWDC19 */,
 				D13758681EEB693E003ED792 /* README.md */,
 				D13758671EEB693E003ED792 /* LICENSE */,
 			);
@@ -34,11 +32,12 @@
 			attributes = {
 				LastUpgradeCheck = 0830;
 			};
-			buildConfigurationList = D13758621EEB688C003ED792 /* Build configuration list for PBXProject "WWDC17-Recap" */;
+			buildConfigurationList = D13758621EEB688C003ED792 /* Build configuration list for PBXProject "WWDC-Recap" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = D137585E1EEB688C003ED792;
@@ -65,7 +64,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D13758621EEB688C003ED792 /* Build configuration list for PBXProject "WWDC17-Recap" */ = {
+		D13758621EEB688C003ED792 /* Build configuration list for PBXProject "WWDC-Recap" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				D13758631EEB688C003ED792 /* Debug */,
