@@ -1,5 +1,3 @@
-![Image](https://developer.apple.com/wwdc/images/wwdc17-og.jpg)
-
 # WWDC-Recap
 Summaries for the sessions from WWDC 19 & 17 in markdown format.
 
@@ -12,7 +10,12 @@ Enjoy !
 
 # [WWDC19](./WWDC19)
 
+![Image](./WWDC19/wwdc-19.png)
+
 # [WWDC17](./WWDC17)
+
+![Image](./WWDC17/wwdc-17.jpg)
+
 ## Keynote
 ### [WWDC 2017 Keynote](./WWDC17/Keynote/Keynote.md)
 ### [Platforms State of the Union](./WWDC17/WWDC17Keynote/Platforms_State_of_the_Union.md)
