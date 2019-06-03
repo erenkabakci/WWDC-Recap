@@ -14,6 +14,9 @@ Enjoy !
 
 ## Keynote
 ### [WWDC 2019 Keynote](./WWDC19/Keynote.md)
+### [Platforms State of the Union](./WWDC19/Platforms_state_of_the_union.md)
+
+================================================
 
 
 
