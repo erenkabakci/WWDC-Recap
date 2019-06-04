@@ -1,5 +1,5 @@
 WWDC19
-### [Back to the Readme](./Readme.md)
+### [Back to the Readme](README.md)
 
 # Table of Contents
 =================
@@ -90,4 +90,4 @@ Session materials: https://developer.apple.com/videos/play/wwdc2019/205/
 
 - Various extensions are not available on macOS as expected
 
-### [Back to the Readme](./Readme.md)
+### [Back to the Readme](./../../README.md)
