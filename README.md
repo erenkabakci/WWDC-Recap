@@ -18,6 +18,7 @@ Enjoy !
 
 ## Technical
 ### [What's New in Xcode 11](./WWDC19/Technical_Sessions/whats_new_in_xcode_11.md)
+### [What's New in Swift](./WWDC19/Technical_Sessions/whats_new_in_swift.md)
 
 ================================================
 
