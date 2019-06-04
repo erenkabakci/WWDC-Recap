@@ -21,6 +21,7 @@ Enjoy !
 ### [What's New in Swift](./WWDC19/Technical_Sessions/whats_new_in_swift.md)
 ### [Introducing SwiftUI: Building Your First App](./WWDC19/Technical_Sessions/introducing_swiftUI.md)
 ### [Introducing iPad Apps for Mac](./WWDC19/Technical_Sessions/introducing_ipad_apps_for_mac.md)
+### [Introducing SF Symbols](./WWDC19/Technical_Sessions/introducing_sf_symbols.md)
 ================================================
 
 # [WWDC17](./WWDC17)
