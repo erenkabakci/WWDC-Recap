@@ -35,6 +35,7 @@ WWDC19
       * [Metal](#metal)
 
 # Platforms State of The Union - Monday
+Video: https://developer.apple.com/videos/play/wwdc2019/103/
 
 ## SwiftUI
   A brand-new UI framework!

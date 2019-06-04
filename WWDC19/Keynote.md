@@ -20,6 +20,7 @@ WWDC19
          * [SwiftUI !!!](#swiftui-)
 
 # Keynote - Monday
+Video: https://developer.apple.com/videos/play/wwdc2019/101/
 
 ## tvOS
 - Redesign of the tv app
