@@ -19,7 +19,7 @@ Enjoy !
 ## Technical
 ### [What's New in Xcode 11](./WWDC19/Technical_Sessions/whats_new_in_xcode_11.md)
 ### [What's New in Swift](./WWDC19/Technical_Sessions/whats_new_in_swift.md)
-
+### [Introducing SwiftUI: Building Your First App](./WWDC19/Technical_Sessions/introducing_swiftUI.md)
 ================================================
 
 # [WWDC17](./WWDC17)
