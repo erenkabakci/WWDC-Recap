@@ -1,5 +1,5 @@
 # WWDC-Recap
-Summaries for the sessions from WWDC 19 & 17 in markdown format.
+Summaries for the sessions I attend during WWDC 19 & 17 in a markdown format.
 
 These notes are not intended to replace the full experience. They are just side notes if you want to check during/after the session or to get a brief idea before diving into.
 
