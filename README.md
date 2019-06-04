@@ -16,6 +16,9 @@ Enjoy !
 ### [WWDC 2019 Keynote](./WWDC19/Keynote.md)
 ### [Platforms State of the Union](./WWDC19/Platforms_state_of_the_union.md)
 
+## Technical
+### [What's New in Xcode 11](./WWDC19/Technical_Sessions/whats_new_in_xcode_11.md)
+
 ================================================
 
 # [WWDC17](./WWDC17)
