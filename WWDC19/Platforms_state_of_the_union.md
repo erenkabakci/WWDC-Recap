@@ -1,6 +1,4 @@
 WWDC19
-### [Back to the Readme](./Readme.md)
-
 # Table of Contents
 =================
 
@@ -188,5 +186,3 @@ Video: https://developer.apple.com/videos/play/wwdc2019/103/
 
   - Metal support in iOS simulator
   - Metal memory debugger
-
-### [Back to the Readme](./Readme.md)

@@ -1,6 +1,4 @@
 WWDC19
-### [Back to the Readme](README.md)
-
 # Table of Contents
 =================
 
@@ -89,5 +87,3 @@ Session materials: https://developer.apple.com/videos/play/wwdc2019/205/
 - NSBundle will be adapting different hierarchies
 
 - Various extensions are not available on macOS as expected
-
-### [Back to the Readme](./../../README.md)

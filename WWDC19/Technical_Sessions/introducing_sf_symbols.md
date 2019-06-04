@@ -1,6 +1,4 @@
 WWDC19
-### [Back to the Readme](./Readme.md)
-
 # Table of Contents
 =================
 
@@ -47,5 +45,3 @@ Session materials: https://developer.apple.com/videos/play/wwdc2019/206/
 - Be flexible: image sizes can change
 - Caching images rarely helps performance
 - Avoid rasterizing!
-
-### [Back to the Readme](./Readme.md)

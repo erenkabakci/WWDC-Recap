@@ -8,7 +8,7 @@ Any PR's are welcomed for the sessions I couldn't attend. :pray:
 Enjoy !
 
 
-# [WWDC19](./WWDC19)
+# [WWDC19]
 
 ![Image](./WWDC19/wwdc-19.png)
 
@@ -24,7 +24,7 @@ Enjoy !
 ### [Introducing SF Symbols](./WWDC19/Technical_Sessions/introducing_sf_symbols.md)
 ================================================
 
-# [WWDC17](./WWDC17)
+# [WWDC17]
 
 ![Image](./WWDC17/wwdc-17.jpg)
 
