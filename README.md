@@ -8,13 +8,16 @@ Any PR's are welcomed for the sessions I couldn't attend. :pray:
 Enjoy !
 
 
-# [WWDC19]
+# WWDC19
 
 ![Image](./WWDC19/wwdc-19.png)
 
 ## Keynote
 ### [WWDC 2019 Keynote](./WWDC19/Keynote.md)
 ### [Platforms State of the Union](./WWDC19/Platforms_state_of_the_union.md)
+
+## Design
+### [What's New in iOS and macOS Design](./WWDC19/Design_Sessions/whats_new_in_ios_and_macos_design.md)
 
 ## Technical
 ### [What's New in Xcode 11](./WWDC19/Technical_Sessions/whats_new_in_xcode_11.md)
@@ -24,7 +27,7 @@ Enjoy !
 ### [Introducing SF Symbols](./WWDC19/Technical_Sessions/introducing_sf_symbols.md)
 ================================================
 
-# [WWDC17]
+# WWDC17
 
 ![Image](./WWDC17/wwdc-17.jpg)
 
