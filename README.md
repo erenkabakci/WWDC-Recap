@@ -26,6 +26,7 @@ Enjoy !
 ### [Introducing iPad Apps for Mac](./WWDC19/Technical_Sessions/introducing_ipad_apps_for_mac.md)
 ### [Introducing SF Symbols](./WWDC19/Technical_Sessions/introducing_sf_symbols.md)
 ### [Sign in with Apple](./WWDC19/Technical_Sessions/sign_in_with_apple.md)
+### [Advances in App Background Execution](./WWDC19/Technical_Sessions/advances_in_app_background_execution.md)
 ================================================
 
 # WWDC17
