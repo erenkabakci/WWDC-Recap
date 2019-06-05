@@ -27,6 +27,7 @@ Enjoy !
 ### [Introducing SF Symbols](./WWDC19/Technical_Sessions/introducing_sf_symbols.md)
 ### [Sign in with Apple](./WWDC19/Technical_Sessions/sign_in_with_apple.md)
 ### [Advances in App Background Execution](./WWDC19/Technical_Sessions/advances_in_app_background_execution.md)
+### [SwiftUI Essentials](./WWDC19/Technical_Sessions/swiftui_essentials.md)
 ================================================
 
 # WWDC17
