@@ -25,6 +25,7 @@ Enjoy !
 ### [Introducing SwiftUI: Building Your First App](./WWDC19/Technical_Sessions/introducing_swiftUI.md)
 ### [Introducing iPad Apps for Mac](./WWDC19/Technical_Sessions/introducing_ipad_apps_for_mac.md)
 ### [Introducing SF Symbols](./WWDC19/Technical_Sessions/introducing_sf_symbols.md)
+### [Sign in with Apple](./WWDC19/Technical_Sessions/sign_in_with_apple.md)
 ================================================
 
 # WWDC17
