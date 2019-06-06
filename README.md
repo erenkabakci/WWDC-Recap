@@ -18,6 +18,7 @@ Enjoy !
 
 ## Design
 ### [What's New in iOS and macOS Design](./WWDC19/Design_Sessions/whats_new_in_ios_and_macos_design.md)
+### [Modernizing Your UI for iOS 13](./WWDC19/Design_Sessions/modernizing_your_ui_for_ios_13.md)
 
 ## Technical
 ### [What's New in Xcode 11](./WWDC19/Technical_Sessions/whats_new_in_xcode_11.md)
