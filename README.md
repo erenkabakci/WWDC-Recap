@@ -30,6 +30,7 @@ Enjoy !
 ### [Advances in App Background Execution](./WWDC19/Technical_Sessions/advances_in_app_background_execution.md)
 ### [SwiftUI Essentials](./WWDC19/Technical_Sessions/swiftui_essentials.md)
 ### [Advances in UI Data Sources](./WWDC19/Technical_Sessions/advances_in_ui_data_sources.md)
+### [Data Flow Through SwiftUI](./WWDC19/Technical_Sessions/data_flow_through_swiftui.md)
 ================================================
 
 # WWDC17
