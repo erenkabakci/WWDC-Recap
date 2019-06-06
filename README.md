@@ -35,6 +35,7 @@ Enjoy !
 ### [Advances in Networking, Part 1](./WWDC19/Technical_Sessions/advances_in_networking_part_1.md)
 ### [Combine in Practice](./WWDC19/Technical_Sessions/combine_in_practice.md)
 ### [Integrating SwiftUI](./WWDC19/Technical_Sessions/integrating_swiftui.md)
+### [Mastering Xcode Previews](./WWDC19/Technical_Sessions/mastering_xcode_previews.md)
 ================================================
 
 # WWDC17
