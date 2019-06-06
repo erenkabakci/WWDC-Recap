@@ -33,6 +33,7 @@ Enjoy !
 ### [Data Flow Through SwiftUI](./WWDC19/Technical_Sessions/data_flow_through_swiftui.md)
 ### [Introducing Combine and Advances in Foundation](./WWDC19/Technical_Sessions/introducing_combine_and_advances_in_foundation.md)
 ### [Advances in Networking, Part 1](./WWDC19/Technical_Sessions/advances_in_networking_part_1.md)
+### [Combine in Practice](./WWDC19/Technical_Sessions/combine_in_practice.md)
 ================================================
 
 # WWDC17
