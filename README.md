@@ -37,6 +37,7 @@ Enjoy !
 ### [Integrating SwiftUI](./WWDC19/Technical_Sessions/integrating_swiftui.md)
 ### [Mastering Xcode Previews](./WWDC19/Technical_Sessions/mastering_xcode_previews.md)
 ### [Building Custom Views with SwiftUI](./WWDC19/Technical_Sessions/building_custom_views_with_swiftui.md)
+### [Accessibility in SwiftUI](./WWDC19/Technical_Sessions/accessibility_in_swiftui.md)
 ================================================
 
 # WWDC17
