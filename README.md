@@ -38,7 +38,7 @@ Enjoy !
 ### [Mastering Xcode Previews](./WWDC19/Technical_Sessions/mastering_xcode_previews.md)
 ### [Building Custom Views with SwiftUI](./WWDC19/Technical_Sessions/building_custom_views_with_swiftui.md)
 ### [Accessibility in SwiftUI](./WWDC19/Technical_Sessions/accessibility_in_swiftui.md)
-### [What's New in Managing Apple Devices](./WWDC/Technical_Sessions/whats_new_in_managing_apple_devices.md)
+### [What's New in Managing Apple Devices](./WWDC19/Technical_Sessions/whats_new_in_managing_apple_devices.md)
 ================================================
 
 # WWDC17
