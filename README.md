@@ -1,5 +1,5 @@
 # WWDC-Recap
-Summaries for the sessions I attend during WWDC 19 & 17 in a markdown format.
+Summaries for the sessions of WWDC 20, 19 & 17 in a markdown format.
 
 These notes are not intended to replace the full experience. They are just side notes if you want to check during/after the session or to get a brief idea before diving into.
 
@@ -9,14 +9,14 @@ Enjoy !
 
 # WWDC20
 
-![Image](./WWDC19/wwdc-20.jpg)
+![Image](./WWDC20/wwdc-20.png)
 
 ## Keynote
 ### [WWDC 2020 Keynote](./WWDC20/Keynote.md)
 
 # WWDC19
 
-![Image](./WWDC20/wwdc-20.jpg)
+![Image](./WWDC19/wwdc-19.png)
 
 ## Keynote
 ### [WWDC 2019 Keynote](./WWDC19/Keynote.md)
