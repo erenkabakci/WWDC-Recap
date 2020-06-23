@@ -13,6 +13,7 @@ Enjoy !
 
 ## Keynote
 ### [WWDC 2020 Keynote](./WWDC20/Keynote.md)
+### [Platforms State of the Union](./WWDC20/Platforms_state_of_the_union.md)
 
 # WWDC19
 
